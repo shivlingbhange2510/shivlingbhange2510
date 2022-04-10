@@ -1,4 +1,4 @@
-<img width='99%' height='300px' style="object-fit:cover" src='https://st2.depositphotos.com/1802620/7621/v/600/depositphotos_76219969-stock-illustration-online-shopping-flat-concept.jpg   ' />
+<img width='99%' height='350px' style="object-fit:cover" src='https://st2.depositphotos.com/1802620/7621/v/600/depositphotos_76219969-stock-illustration-online-shopping-flat-concept.jpg   ' />
 <!--   https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif-->
 <h1 align="center">Hi 👋, I'm Shivling Bhange</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
