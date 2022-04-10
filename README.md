@@ -1,4 +1,4 @@
-<img src='https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif' />
+<img width='99%' src='https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif' />
 <h1 align="center">Hi 👋, I'm Shivling Bhange</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
