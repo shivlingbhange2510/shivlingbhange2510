@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivling Bhange</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🌱 I’m currently learning **Frontend and Backend Technologies.**
+
 - 👨‍💻 All of my projects are available at [https://shivlingbhange.netlify.app/](https://shivlingbhange.netlify.app/)
 
 - 💬 Ask me about **react, javaScript, redux**
@@ -22,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivlingbhange2510&show_icons=true&locale=en" alt="shivlingbhange2510" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivlingbhange2510&" alt="shivlingbhange2510" /></p>
-
